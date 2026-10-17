@@ -27,3 +27,10 @@ python login_test.py
 
 Run the attendance test:
 python attendance_test.py
+
+## Version Control
+
+This project uses Git for local version control and GitHub
+for remote storage and collaboration.
+
+Changes are tracked through commits.
